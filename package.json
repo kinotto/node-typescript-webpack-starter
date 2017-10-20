@@ -1,8 +1,8 @@
 {
-  "name": "typescript-babel-webpack-starter",
+  "name": "node-typescript-webpack-starter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "start": "npm-run-all --parallel watch:server watch:build",
     "watch:server": "nodemon \"./build/bundle.js\" --watch \"./build\" ",

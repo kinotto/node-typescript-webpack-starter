@@ -9,10 +9,9 @@ class Homer implements IHomer {
     }
 }
 
-let a = {b: 4, c: 6};
-let cc = {...a};
-console.log(cc);
-
 const instance = new Homer();
 console.log(instance.name());
-console.log('ciasss')
+
+let a = {b: 4, c: 6};
+let cc = {...a};
+console.log(cc); //testing ES6 spread operator
