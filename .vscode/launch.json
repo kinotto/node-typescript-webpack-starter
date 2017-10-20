@@ -11,7 +11,6 @@
             "restart": true,
             "args": [],
             "cwd": "${workspaceRoot}",
-            "preLaunchTask": "start",
             "runtimeExecutable": null,
             "runtimeArgs": ["--nolazy"],
             "env": {
