@@ -1,15 +1,24 @@
 {
     "version": "0.2.0",
-    "configurations": [
+    "configurations":[
+
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
-            "program": "${workspaceFolder}/src/index.ts",
-            "preLaunchTask": "tsc: build - tsconfig.json",
-            "outFiles": [
-                "${workspaceFolder}/build/**/*.js"
-            ]
-        }
-    ]
+            "name": "typescript-babel-webpack-starter",
+            "program": "${workspaceRoot}/src/index.ts",
+            "stopOnEntry": false,
+            "restart": true,
+            "args": [],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": "start",
+            "runtimeExecutable": null,
+            "runtimeArgs": ["--nolazy"],
+            "env": {
+              "NODE_ENV": "development"
+            },    
+            "sourceMaps": true,
+            "outFiles": ["${workspaceFolder}/build/**/*.js"]
+          }
+     ]
 }
