@@ -1,5 +1,5 @@
 # Nodejs + Typescript + Webpack app starter
-
+<img src="https://thumbs.gfycat.com/AppropriateParallelCuckoo-max-14mb.gif" width=700/>
 
 ## Quick Overview
 
