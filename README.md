@@ -1,5 +1,7 @@
 # Nodejs + Typescript + Webpack app starter
-<img src="https://thumbs.gfycat.com/AppropriateParallelCuckoo-max-14mb.gif" width=700/>
+
+![img](https://thumbs.gfycat.com/SmoothDifficultEnglishsetter-max-14mb.gif)
+
 
 ## Quick Overview
 
