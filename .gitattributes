@@ -1,1 +1,2 @@
-build/* linguist-documentation
+* linguist-vendored
+*.ts linguist-vendored=false
