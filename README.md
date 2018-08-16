@@ -5,7 +5,7 @@
 
 ## Quick Overview
 
-This is a minimalistic starter app that benefits of the strong typing of the Typescript compiler
+This is a minimalistic starter app that benefits of the strong typing of the Typescript compiler plus all the latest ES6, ES7+ features
 on a Nodejs application, already configured with a custom .vscode to allow debugging inside a Visual studio code IDE
 
 see also [node babel webpack starter](https://github.com/kinotto/node-babel-webpack-starter)
