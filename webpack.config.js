@@ -6,6 +6,9 @@ module.exports = {
         path: path.resolve(__dirname, 'build'),
         filename: 'bundle.js'
     },
+    resolve: {
+      extensions: ['.ts'] //resolve all the modules other than index.ts
+    },
     module: {
         rules: [
             {
