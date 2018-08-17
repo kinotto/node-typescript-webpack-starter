@@ -1,6 +1,6 @@
 # Nodejs + Typescript + Webpack app starter
 
-![img](https://im3.ezgif.com/tmp/ezgif-3-7ec7878afa.gif)
+![img](https://thumbs.gfycat.com/SmoothDifficultEnglishsetter-max-14mb.gif)
 
 
 ## Quick Overview
